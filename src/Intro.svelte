@@ -26,10 +26,10 @@
     <header class="subheader">
       <div>Links</div>
     </header>
-    <p>
-      <a href="https://github.com/flooyd">Github</a>
-      <a href="https://www.linkedin.com/in/floyd-jones-2a51099a/">LinkedIn</a>
-    </p>
+    <a class="links" href="https://github.com/flooyd">Github</a>
+    <a class="links" href="https://www.linkedin.com/in/floyd-jones-2a51099a/"
+      >LinkedIn</a
+    >
   </div>
 </div>
 
@@ -50,5 +50,9 @@
   .about a {
     display: inline-block;
     margin-bottom: 0px;
+  }
+
+  .links {
+    padding-left: 8px;
   }
 </style>
