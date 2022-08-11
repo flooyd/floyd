@@ -17,7 +17,7 @@
     height: fit-content;
     min-width: 48%;
     flex-grow: 100;
-    background: var(--cadet-blue-crayola);
+    background: var(--paradise-pink);
   }
 
   .intro {

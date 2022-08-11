@@ -19,7 +19,7 @@
     height: calc(100% - 26px);
     min-width: 48%;
     flex-grow: 100;
-    background: var(--paradise-pink);
+    background: var(--cadet-blue-crayola);
   }
 
   .intro {
