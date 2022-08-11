@@ -12,7 +12,6 @@
 
 <style>
   main {
-    height: calc(100% - 99px);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
