@@ -167,11 +167,32 @@ header {
   color: var(--cultured);
 }
 
+.subheader {
+  width: fit-content;
+  margin-top: 31px;
+}
+
 p {
   font-size: 16px;
   margin: 13px 0px;
-  padding: 8px;
+  padding: 5px;
   color: black;
+}
+
+a {
+  color: var(--cultured);
+  display: block;
+  margin-bottom: 13px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--oxford-blue);
+  font-weight: bold;
+}
+
+a:visited {
+  color: var(--cultured);
 }
 
 .clickable {
