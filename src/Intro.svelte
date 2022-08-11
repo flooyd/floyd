@@ -48,5 +48,6 @@
 
   .about a {
     display: inline-block;
+    margin-bottom: 0px;
   }
 </style>
