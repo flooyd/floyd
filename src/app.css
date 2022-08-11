@@ -155,7 +155,7 @@ header {
   font-size: 20px;
   padding: 0px 8px;
   padding-bottom: 13px;
-  margin-bottom: 31px;
+  margin-bottom: 25px;
   border-bottom: 1px solid var(--oxford-blue);
   width: fit-content;
   display: flex;
@@ -169,7 +169,7 @@ header {
 
 .subheader {
   width: fit-content;
-  margin-top: 31px;
+  margin-top: 25px;
 }
 
 p {
