@@ -9,7 +9,7 @@
     align-items: center;
     justify-content: center;
     height: 40px;
-    font-size: 31px;
+    font-size: 20px;
     background: var(--emerald);
     font-weight: bold;
     padding: 8px 20px;
