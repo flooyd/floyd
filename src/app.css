@@ -183,3 +183,9 @@ p {
   background: var(--oxford-blue) !important;
   color: var(--cultured) !important;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+}
