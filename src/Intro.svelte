@@ -4,8 +4,8 @@
 
 <div class="container">
   <div class="intro">
-    <header class="title">
-      <div>Hi. This is my blog.</div>
+    <header>
+      <div class="title">Hi. This is my blog.</div>
       <div><Collapse /></div>
     </header>
     <p>More articles coming soon...</p>
