@@ -13,7 +13,7 @@
     background: var(--emerald);
     font-weight: bold;
     padding: 8px 20px;
-    border-bottom: 3px solid var(--oxford-blue);
+    border-bottom: 2px solid var(--oxford-blue);
     font-family: "Montserrat", sans-serif;
     border-radius: 0px;
   }

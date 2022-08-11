@@ -6,7 +6,7 @@
     width: 50px;
     background: var(--cultured);
     color: black;
-    border: 3px solid var(--oxford-blue);
+    border: 2px solid var(--oxford-blue);
     text-align: center;
   }
 </style>
