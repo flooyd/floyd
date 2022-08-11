@@ -14,6 +14,8 @@
   main {
     height: calc(100% - 99px);
     display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
     padding: 20px;
     background: var(--cultured);
     font-family: "Open Sans", sans-serif;

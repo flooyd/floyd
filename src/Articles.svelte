@@ -20,7 +20,6 @@
     min-width: 48%;
     flex-grow: 100;
     background: var(--paradise-pink);
-    margin-left: 20px;
   }
 
   .intro {

@@ -14,7 +14,7 @@
 
 <style>
   .container {
-    height: calc(100% - 26px);
+    height: fit-content;
     min-width: 48%;
     flex-grow: 100;
     background: var(--cadet-blue-crayola);
