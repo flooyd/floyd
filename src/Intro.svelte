@@ -4,7 +4,7 @@
 
 <div class="container">
   <div class="intro">
-    <header>
+    <header class="title">
       <div>Hi. This is my blog.</div>
       <div><Collapse /></div>
     </header>
@@ -43,7 +43,7 @@
     color: var(--cultured);
   }
 
-  header div:first-of-type {
+  .title {
     font-style: italic;
   }
 
