@@ -15,6 +15,7 @@
     height: calc(100% - 99px);
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 13px;
     padding: 20px;
     background: var(--cultured);

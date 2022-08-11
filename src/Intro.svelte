@@ -15,8 +15,11 @@
     <p class="about">
       I am a UI developer. I enjoy <a href="https://svelte.dev/">Svelte</a> the
       most, followed by
-      <a href="https://reactjs.org/">React</a>. I enjoy CSS and JS in general,
-      and on the backend, my favorite technology is
+      <a href="https://reactjs.org/">React</a>.
+    </p>
+    <p class="about">
+      I enjoy CSS and JS in general, and on the backend, my favorite technology
+      is
       <a href="https://nestjs.com/">NestJS</a>.
     </p>
     <p>This site was made with Svelte.</p>
@@ -33,8 +36,6 @@
 <style>
   .container {
     height: fit-content;
-    min-width: 48%;
-    flex-grow: 100;
     background: var(--paradise-pink);
   }
 
